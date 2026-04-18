@@ -1,0 +1,8 @@
+# FamilyBond
+.env
+.venv/
+__pycache__/
+*.pyc
+uv.lock
+*.egg-info/
+.DS_Store

@@ -1,0 +1,7 @@
+[
+  {
+    "type": "health_log",
+    "raw_text": "今天血压 135/85，药也吃了。",
+    "parsed_result": "血压: 135/85 mmHg; 用药情况: 已服药"
+  }
+]
